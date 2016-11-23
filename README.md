@@ -6,7 +6,7 @@ when it comes to vanilla css responsive design, device resolution pain comes in 
 # CSS Device Resolutions
 ------------------------
 
-*Smartphones
+* Smartphones
     *320x480
        *533
        *568
@@ -25,7 +25,7 @@ when it comes to vanilla css responsive design, device resolution pain comes in 
     *432x768
     *504x504
 
-*Tablets
+* Tablets
     *480x800
     *600x960
         *1024
