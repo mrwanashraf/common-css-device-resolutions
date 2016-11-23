@@ -1,12 +1,12 @@
 # common-css-device-resolutions
 when it comes to vanilla css responsive design, device resolution pain comes in mind. like if you're new to this you will find yourself running in circles trying to figure out the resolution that you will test your view on. so in this repo I'm putting what I've found useful after searching for hours hoping it would help others as much as it helped me.
 
----------------------------------------------
+
 
 # CSS Device Resolutions
-------------------------
 
-* Smartphones
+
+* ##Smartphones
     * 320x480
        * 533
        * 568
@@ -25,7 +25,7 @@ when it comes to vanilla css responsive design, device resolution pain comes in 
     * 432x768
     * 504x504
 
-* Tablets
+* ##Tablets
     * 480x800
     * 600x960
         * 1024
@@ -37,4 +37,5 @@ when it comes to vanilla css responsive design, device resolution pain comes in 
     * 1024x1366
          * 1440
          
+
 #Source: http://mydevice.io/devices/          
